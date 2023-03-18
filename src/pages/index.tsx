@@ -10,9 +10,9 @@ export default function HomePage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
+      <main className='text-white bg-dark font-calibre'>
           <div className='h-screen flexCenter'>
-            <h1 className='text-4xl font-bold font-sfmono'>LANDING PAGE</h1>
+            <h1 className='text-4xl font-bold'>LANDING PAGE</h1>
           </div>
       </main>
     </>
